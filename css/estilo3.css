@@ -1,0 +1,65 @@
+h1{
+    color: white;
+    text-align: center;
+    font-size: 44px;
+}
+body{
+  font-size: 26px;
+  font-family: 'Playfair';
+
+}
+#tabla{
+    font-size: 20px;
+    color: white;
+    border-left: solid black;
+    background-color: black;
+    font-weight: normal;
+}
+#producto{
+    color: white;
+}
+#barber, #galeriap, #tienda, #galeriat{
+  font-size: 30px;
+  color: black;
+}
+#abajito{
+  color: black;
+  font-size: 30px;
+  background-color: black;
+}
+.cuadropl{
+  background-color: black;
+  width: 320px;
+  height: 400px;
+  margin-right: 0.3cm;
+  color: white;
+  float: left; 
+  font-size: 22px;
+  margin-bottom: 1em;
+}
+.cuadro{
+  background-color: black;
+  width: 320px;
+  height: 400px;
+  margin-right: 0.3cm;
+  color: white;
+  float: left; 
+  font-size: 22px;
+  margin-bottom: 1em;
+}
+.img{
+  margin-top: 1em;
+  margin-right:1.5em;
+  margin-left: 1.5em;
+}
+p{
+  margin-left: 1em;
+}
+#tienda{
+  text-align: left;
+}
+#footer{
+  font-size: 20px;
+  background-color: black;
+  width: 1330px;
+}
